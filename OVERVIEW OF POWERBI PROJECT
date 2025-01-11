@@ -1,0 +1,67 @@
+
+
+Project Name: Tata Altroz Sales Analysis
+
+Objective:
+To analyze the sales performance of Tata Altroz models, identify patterns and trends, and provide a insights for pricing, discounts, and inventory management to maximize revenue and market. share.
+
+Exploratory Data Analysis (EDA)
+a. Key Metrics & Summary Statistics
+Total Units Sold: 32,000 units.
+Total Sales Value: 7 million.
+Total Discounts Offered: 177,000.
+
+Price Range of Models:
+Most models are priced between 0.5M and 1.0M.
+Certain models (e.g., XM Plus D, XM-P) have lower price points.
+
+b. Model Performance Analysis
+Top-Selling Models:
+Altroz XM-CNG and Altroz XZ have the highest share in total units sold (as shown in the pie chart).
+
+Low-Selling Models:
+Models like Altroz XM Plus D and Altroz XM-P contribute less to the overall sales.
+
+c. Discounts & Their Effect
+The Altroz XT-DCA has the highest discounts (over 40K).
+Models with higher discounts tend to have better sales volumes, showing a potential correlation between discounts and sales performance.
+
+d. Temporal Analysis
+Sales Trend Over Time:
+January 12 shows a peak in sales, indicating significant activity on that day. This could be linked to a promotional campaign or seasonal factors.
+Sales vary between quarters and months, showing fluctuating demand.
+
+Resources Used
+1. Data Sources
+Sales Transaction Data: Includes model names, sales quantities, prices, discounts, and time stamps.
+Inventory Data: To align discounts and pricing trends with available stock.
+Promotional Campaign Data: To track and analyze the effect of campaigns on sales spikes.
+2. Tools & Technologies
+Data Visualization: Power BI was used for creating interactive dashboards.
+Data Cleaning and Preparation:  tools like Python pandas, numpy or Excel were used to preprocess raw data.
+                                     SQL used for data cleaning 
+Outcomes
+
+Outcome: Models like Altroz XT-DCA and Altroz XZ generate the most revenue, likely due to their higher price and sales volume.
+ Insight: Focus marketing efforts on these models while maintaining their competitive advantage in terms of features or value propositions.
+
+Outcome: Models with higher discounts (e.g., Altroz XT-DCA) tend to perform better in terms of sales.
+ Insight: Consider offering higher discounts selectively for underperforming models to boost their sales.
+
+Outcome: Sales spikes occur on specific days ( January 12). These could align with promotions or campaigns.
+ Insight: Use predictive analytics to plan campaigns around these periods to maximize revenue.
+
+Outcome: The sales distribution is skewed, with a few models dominating while others lag behind.
+ Insight: Revise the pricing and marketing strategies for low-performing models to improve their market share.
+
+Outcome: Higher-priced models with discounts tend to attract more customers than lower-priced models without discounts.
+ Insight: Implement competitive pricing strategies and enhance features for models in the mid-tier price range.
+
+Outcome: High-performing models like Altroz XZ and Altroz XM-CNG require more inventory, while low-performing models (e.g., XM Plus D) might lead to overstock.
+Insight: Streamline inventory management using demand forecasting to align with sales trends.
+
+WHAT CAN BE  DONE -
+DISCOUNT on less selling models
+Detail review from customer about thier requirements.
+launch new model or update the model from customer feedback
+increase sales and service network 
