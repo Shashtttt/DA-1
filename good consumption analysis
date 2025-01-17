@@ -1,0 +1,61 @@
+This is a dashboard visualization  created using Power BI o to represent Yearly Goods Consumption across various cities and goods categories. 
+
+Key Sections:
+Bar Chart: Sales by City (2019–2023)
+
+Compares yearly sales (2019 to 2023) across cities like Mumbai, Delhi, Kolkata, Chennai, and Bangalore.
+It helps visualize trends in sales performance over the years for each city.
+Growth Rate by Year and City
+
+A horizontal bar chart shows the percentage growth in goods consumption across cities for each year from 2020 to 2023.
+Cities like Bangalore and Mumbai appear to have significant growth variations.
+Growth Metrics (Top-Right Cards)
+
+Summarized key metrics for growth percentages across the years:
+Growth 2021: 3.38%
+Growth 2020: 2.99%
+Growth 2022: 2.67%
+Growth 2023: 2.40%
+These cards provide a quick overview of yearly consumption growth trends.
+
+Donut Charts: Consumption (%) by Goods
+
+Divides consumption into adult and old populations, categorized into goods such as Chemicals, Automotive, Electronics, FMCG, Retail, etc.
+Adult Consumption (outer chart): FMCG (23.51%) seems to dominate.
+Old Consumption (inner chart): Chemicals (29.32%) take a large share.
+Area Chart: Yearly Sales by Goods
+
+Displays trends in sales of different goods (Electronics, FMCG, Automotive, Retail, and Chemicals) from 2020 to 2023.
+Highlights the decline or growth across categories visually over the years.
+Filters (Top-Right Dropdown)
+
+Allows users to filter by city or goods for detailed analysis.
+Insights You Can Derive:
+City-Specific Analysis: Compare how sales in cities like Mumbai and Bangalore have performed over the years.
+Goods Category Performance: Understand which goods are most consumed (FMCG for adults and Chemicals for older consumers).
+Growth Trends: The highest growth appears to be in 2021 (3.38%), with a declining trend over subsequent years.
+Consumption by Demographic: FMCG dominates adult consumption, whereas older people favor Chemicals.
+
+City-Specific Performance:
+
+Mumbai and Delhi consistently lead in yearly sales across all goods categories.
+Bangalore shows notable growth compared to other cities, particularly in recent years.
+Growth Trends:
+
+Growth peaked in 2021 at 3.38%, but there is a steady decline in growth rates over 2022 (2.67%) and 2023 (2.40%), indicating market saturation or reduced demand.
+Goods Category Analysis:
+
+Adults: FMCG dominates consumption (23.51%), highlighting its strong appeal among younger demographics.
+Older Consumers: Chemicals are the most consumed category (29.32%), possibly due to health-related or household needs.
+Declining Sales in Certain Goods:
+
+Categories like Electronics and Automotive show declining trends, which may indicate reduced consumer interest or external market challenges.
+Demographic Insights:
+
+Different age groups exhibit distinct consumption preferences, offering opportunities for targeted marketing strategies.
+City-Goods Alignment:
+
+Certain cities exhibit higher consumption of specific goods, suggesting regional preferences that businesses can leverage for tailored offerings.
+Strategic Importance:
+
+The consistent decline in growth rates across cities signals the need for innovation, diversification, or exploring untapped markets to reignite demand.
