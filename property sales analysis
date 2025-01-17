@@ -1,0 +1,53 @@
+This dashboard  analyze property sales data, presenting various metrics and visualizations related to property pricing, saleable area, application dates, and unit rates.
+
+Key Sections:
+Donut Chart: NET_PRICE by PROPERTY
+
+The chart shows the distribution of net price across different property names, such as "M3M 65th Avenue," "M3M Golf Estate," and others.
+Larger slices (e.g., 15bn for "M3M Golf Estate") indicate properties contributing significantly to overall sales.
+Metrics (Top Right):
+
+Count of Balance: 13.811K ( units still available for sale or allocation).
+Received (01-Jan-2025): 172bn (total revenue or amount received from sales).
+Total Units: 13.811K (total units under consideration).
+
+Line Chart: Count of PROPERTY by SALEABLE_AREA
+
+Visualizes the count of properties against saleable areas.
+A declining trend indicates fewer properties are available as the saleable area increases.
+Bar Chart: PROPERTY by APPLICATION_DATE
+
+Tracks the number of properties based on their application date.
+High activity observed around April 2020, with a gradual decline over time.
+Bar Chart: UNIT_RATE by SALEABLE_AREA
+
+Shows the relationship between unit rates (e.g., UNIT_RATE 249, 244) and saleable areas.
+Higher unit rates correspond to properties with larger saleable areas.
+Units by Possession Status (Y/N)
+
+Compares the number of units marked as "Possession Given (Y)" versus "Not Given (N)."
+Sum of NET_PRICE
+
+ figure of 171bn represents the total net price across all properties.
+ 
+Filters: Balance Status
+
+Allows for filtering the data based on balance status for more targeted analysis.
+Insights:
+Property Contributions:
+
+"M3M 65th Avenue" and "M3M Golf Estate" are among the top contributors to overall sales (9.41% and 8.95%, respectively).
+Targeting high-performing properties can further drive revenue growth.
+Sales Trends:
+
+April 2020 had the highest property applications, indicating a potential peak in demand around that period.
+A steady decline in applications over time suggests either market saturation or changing buyer preferences.
+Unit Rates vs. Saleable Area:
+
+Properties with higher saleable areas have higher unit rates, reflecting premium pricing for larger spaces.
+Possession Status:
+
+The comparison of units with possession given versus pending can highlight areas needing operational attention.
+Revenue Summary:
+
+With 172bn already received and 171bn net price in total, it indicates strong performance, though further focus on unsold units could optimize returns.
